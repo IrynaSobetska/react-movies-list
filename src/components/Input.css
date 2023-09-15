@@ -1,0 +1,12 @@
+.input {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input {
+  font-size: 3vh;
+  margin: 5px;
+  border-style: solid;
+  border-radius: 5px;
+}
